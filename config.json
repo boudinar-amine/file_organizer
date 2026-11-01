@@ -1,0 +1,11 @@
+﻿{
+    "include_subfolders":  true,
+    "max_pages_to_analyze":  2,
+    "ollama_url":  "http://localhost:11434",
+    "use_ollama":  false,
+    "last_selected_folder":  "C:\\Users\\HP\\Desktop\\pdf_organizer\\test_documents",
+    "organization_root":  "C:\\Users\\HP\\Desktop\\pdf_organizer\\test_output\\Organized",
+    "confidence_threshold_medium":  0.65,
+    "ollama_model":  "llama3",
+    "confidence_threshold_high":  0.85
+}

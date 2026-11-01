@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large AI Models (Hugging Face / PyTorch weights > 100MB)
+models/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# SQLite databases & logs
+*.db
+*.sqlite
+*.sqlite3
+.data/
+app.log
+logs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Test output & temporary directories
+test_output/
+*.tmp
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE and Editor settings
+.vscode/
+.idea/
